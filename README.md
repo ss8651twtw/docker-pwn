@@ -1,3 +1,3 @@
 # docker-pwn
 
-There are dockerfiles for pwn challenge and the branch name represents Ubuntu version.
+There are Dockerfiles for building pwn challenge and the branch name represents Ubuntu version.
